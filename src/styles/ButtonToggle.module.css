@@ -1,0 +1,12 @@
+.buttonContainer {
+    background-color: #FEFEFE;
+    padding: 16px;
+    border-radius: 16px;
+    transition: ease-in-out all 0.2s;
+}
+
+.buttonContainer:hover{
+    font-size: 18px;
+    cursor: pointer;
+    padding: 24px;
+}

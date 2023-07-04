@@ -1,0 +1,12 @@
+.card {
+    background-color: #FEFEFE;
+    border-radius: 16px;
+    padding: 32px;
+    color: black;
+    text-align: center;
+}
+
+.card div {
+    display: flex;
+    gap: 16px
+}

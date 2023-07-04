@@ -1,0 +1,25 @@
+.history{
+    background-color: #FEFEFE;
+    padding: 32px;
+    margin-top: 32px;
+    border-radius: 16px;
+}
+
+.list {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    gap: 16px;
+}
+
+.list li {
+    display: flex;
+    justify-content: space-between;
+    background-color: #F9F9F9;
+    padding: 8px;
+    border-radius: 8px;
+}
+
+.list li img {
+    width: 32px;
+}
