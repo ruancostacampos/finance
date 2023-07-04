@@ -4,6 +4,8 @@ import styles from '../../styles/ButtonToggle.module.css'
 
 const ButtonToggle = () => {
 
+    //Futuramente criar um modal para editar ou deletar, já existem essas funções implementadas no Context
+
     const [showModal, setShowModal] = useState(false)
 
     return (
